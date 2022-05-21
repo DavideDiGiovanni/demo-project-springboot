@@ -11,4 +11,4 @@ There's just one Entity called Student and a Student Controller to create, read,
 
 This demo is based on amigoscode course called **"Getting Started with Spring Boot"**.
 
-You can check this course at: https://amigoscode.com/courses/
+You can check it at: https://amigoscode.com/courses/
