@@ -9,6 +9,6 @@ It's a little REST project based on Springboot. The application follows the MVC 
 
 There's just one Entity called Student and a Student Controller to create, read, update or delete a Student.
 
-<img alt="An image that represents the three layer of this application." height="440" src="src/main/resources/image/diagram.jpg" title="demo_application_diagram.jpg" width="490"/>
+<img alt="An image that represents the three layers of this application." height="440" src="src/main/resources/image/diagram.jpg" title="demo_application_diagram.jpg" width="490"/>
 
 You can check this course at: https://amigoscode.com/courses/
